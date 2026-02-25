@@ -4,6 +4,9 @@
 
 ## Unreleased
 
+## 2.232.2 - 2026-02-25
+- ignore: riverpod_lint/provider_dependencies
+
 ## 2.232.1 - 2023-06-14
 - use super constructor
 - remove until build
